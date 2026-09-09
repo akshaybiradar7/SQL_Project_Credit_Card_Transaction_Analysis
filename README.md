@@ -1,5 +1,5 @@
 ![SQL](https://img.shields.io/badge/Language-SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Database](https://img.shields.io/badge/Database-PostgreSQL%2015-blue?style=for-the-badge)
+![Microsoft SQL Server](https://img.shields.io/badge/Database-SQL%20Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 # SQL_Project (Credit Card Transaction Analysis)
 
 A comprehensive exploratory and diagnostic data analysis project analyzing **26,000+ credit card transactions** using advanced SQL. This project demonstrates end-to-end relational data querying—from basic aggregations to multi-tier window functions and CTEs—to solve 9 complex business problems around customer spending habits, fraud patterns, and card utilization.
