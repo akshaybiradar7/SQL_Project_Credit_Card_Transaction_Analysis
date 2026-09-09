@@ -9,7 +9,7 @@ A comprehensive exploratory and diagnostic data analysis project analyzing **26,
 Credit card transaction datasets capture critical behavioral and financial metrics. The goal of this project is to simulate real-world data analyst tasks by extracting high-impact business insights, tracking month-over-month trends, identifying high-value customers, and analyzing category-level expenditures across demographics.
 
 * **Dataset Size:** 26,000+ transaction records.
-* **Core Technology:** SQL (PostgreSQL / MySQL / SQL Server compatible).
+* **Core Technology:** SQL Server 2022.
 * **Techniques Used:** Window / Analytical Functions:
 (Ranking Functions, Value / Offset Functions, Window Aggregates and Partitioning & Ordering),
 Common Table Expressions (CTEs), Conditional Aggregation & Pivot Logic, Subqueries & Derived Tables, Date & Time Functions (T-SQL / SQL Server), Standard Aggregation & Group Filtering, Result Limiting & Sorting and Mathematical Operations & Type Casting.
@@ -60,14 +60,14 @@ Common Table Expressions (CTEs), Conditional Aggregation & Pivot Logic, Subqueri
 ## Clone the repository:
 
 Bash
-git clone [https://github.com/akshaybiradar7/SQL_Project].git
+git clone [https://github.com/akshaybiradar7/SQL_Project_Credit_Card_Transaction_Analysis].git
 cd SQL_Project
 
 ---
 
 ## Set up the database:
 
-Open your preferred SQL client (DBeaver, pgAdmin, MySQL Workbench).
+Open your preferred SQL client (SQL Server).
 
 Run sql/SQL_Project_Solved_Queries.sql to initialize the tables.
 
